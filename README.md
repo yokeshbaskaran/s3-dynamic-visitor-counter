@@ -42,7 +42,7 @@ A dynamic visitor counter service for a static, **S3-hosted** website. This proj
 
 Refer to the full documentation for detailed implementation steps.
 
-📄Documentation (.pdf): [documentation.pdf](https://github.com/user-attachments/files/23709509/documentation.pdf)
+📄Documentation: [documentation.pdf](https://github.com/user-attachments/files/23709509/documentation.pdf)
 
 ## 📊 Example Output
 
@@ -58,4 +58,4 @@ Livepage URL: [Dynamic Visitor Counter Live Page](http://s3-dynamic-visitor-coun
 
 ## 🎥 Preview
 
-(Preview video of the project website)
+![Image](https://github.com/user-attachments/assets/736cf6bb-d5f9-437d-a528-24481c20ad62)
