@@ -1,15 +1,12 @@
-# Dynamic Visitor Counter 🔢
+# 🔢 Dynamic Visitor Counter
 
 A dynamic visitor counter service for a static, **S3-hosted** website. This project uses **AWS Lambda**, **API Gateway**, and **DynamoDB** to track and display page visits in real-time. Designed for lightweight, serverless page-count tracking without hosting a backend.
 
 ## 🚀 Features
 
 - **Dynamic page-visit tracking** - Each page hit increments a counter stored in DynamoDB.
-
 - **Serverless architecture** - Powered by AWS Lambda and API Gateway, with no servers to manage.
-
 - **Easy to integrate** - Add a simple JavaScript snippet to any S3-hosted static website.
-
 - **Scalable & cost-efficient** - Utilizes AWS’s pay-as-you-go model and scales automatically.
 
 ## 🏗️ Architecture Overview
@@ -38,8 +35,7 @@ A dynamic visitor counter service for a static, **S3-hosted** website. This proj
 
 -> Refer to the full documentation for detailed implementation steps.
 
-📄Documentation: [documentation.pdf](https://github.com/user-attachments/files/23709509/documentation.pdf)
-
+📄Documentation: [documentation.pdf](https://github.com/user-attachments/files/23960243/s3-dynamic-visitor-counter.pdf)
 ## 📊 Example Output
 
 ```json
